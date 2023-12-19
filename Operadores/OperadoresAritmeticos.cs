@@ -1,0 +1,4 @@
+// soma => (+)
+// subtração => (-)
+// divisão => (/)
+// multiplicação => (*)

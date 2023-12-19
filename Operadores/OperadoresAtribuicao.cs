@@ -1,0 +1,7 @@
+// atribuição => (=)
+// atribuição + soma => (+=)
+// atribuição - subtração => (-=)
+// atribuição / divisão => (/=)
+// atribuição * multiplicação => (*=)
+// incremento (++)
+// decremento (--)
