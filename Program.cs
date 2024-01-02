@@ -1,9 +1,13 @@
 ﻿namespace CSharp;
 
+using CSharp.Calculadoraa;
+
 class Program
 {
   private static void Main(string[] args)
   {
-    Console.WriteLine("Hello, World!");
+    Opcoes menuOpcoes = new Opcoes();
+
+    menuOpcoes.MenuOpcoes();
   }
 }
